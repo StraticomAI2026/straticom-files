@@ -1,0 +1,2 @@
+# straticom-files
+Gap Analysis
